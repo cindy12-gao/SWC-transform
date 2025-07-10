@@ -6,7 +6,8 @@ This pipeline transforms SWC files from Imaris filament reconstructions to align
 - **Python** 3.10 (for cellfinder and BrainGlobe) and **Python** 3.7 (for Imaris plugins)
 - **BrainGlobe** (v1.3.1)
 - **Amira** v2022 (for visualization)
-
+- Download demo and other files from **Zenodo** ("**SWC.zip**", DOI:10.5281/zenodo.15510732)
+  
 ## Installation
 
 ### 1. Set up "cellfinder" environment for SWC transformation
